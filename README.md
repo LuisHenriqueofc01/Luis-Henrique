@@ -12,7 +12,7 @@
 - 🎓 Cursando Ciência da Computação (4º semestre)
 - 👨‍🏫 Professor de Informática na Escola Discover
 - 💻 Desenvolvedor com foco em: `Python`, `HTML`, `CSS`, `JavaScript`
-- 🛠️ Também tenho experiência com: `C#`, `C++`
+- 🛠️ Também tenho experiência com: `C#`, `C++`, `Java`
 - 🌱 Sempre aprendendo e buscando novos desafios na área de tecnologia
 - 📫 Contato profissional: [LinkedIn](https://www.linkedin.com/in/luis-henrique-7a024121a)
 
@@ -24,6 +24,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=java)
 ![C#](https://img.shields.io/badge/-CSharp-333?style=flat-square&logo=c-sharp)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat-square&logo=c%2b%2b)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
@@ -49,3 +50,4 @@
 <p align="center">
   ✨ “Transformando conhecimento em código e ideias em soluções.” ✨
 </p>
+
